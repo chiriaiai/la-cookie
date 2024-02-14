@@ -1,7 +1,7 @@
 function getRandomGreeting() {
   var greetings = [
-    "Beep boop! Are you a robot?",
-    "Did you know I have a discord server?",
+    "bee boo boo boo - the murphy",
+    "did you know that 3kh0 has a discord server (im not a discord mod i swear) ",
     "How many sides does a circle have?",
     "You can read btw",
     "Made you look!",
@@ -15,8 +15,8 @@ function getRandomGreeting() {
     "Reload the page NOW!",
     "Downloading your passwords...",
     "Running 3kh0.exe",
-    "WARNING: You may lose braincells if you proceed!",
-    "Do you bite your ice cream?",
+    "time to get smarter and work harder not smarter",
+    "why do people bite their ice cream, its horrifying",
     "#Relatable",
     "Fortnite is cringe",
     "You got games on your phone?",
@@ -78,6 +78,7 @@ function getRandomGreeting() {
     "Mission failed, we will get them next time",
     "NUKE INCOMING!",
     "I spent too much time making these",
+    "hello from the murph",
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
