@@ -27,7 +27,12 @@
   {
     "link": "projects/adrenalinechallenge/index.html",
     "imgSrc": "projects/adrenalinechallenge/adrenalinechallenge.jpg",
-    "title": "Adrenaline Challenge"
+    "title": "Amazing Rope Police"
+  },
+   {
+    "link": "projects/among-us/index.html",
+    "imgSrc": "projects/among-us/red.png",
+    "title": "Among Us"
   },
   {
     "link": "projects/among-us/index.html",
