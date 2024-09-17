@@ -1,7 +1,6 @@
 function getRandomGreeting() {
   var greetings = [
     "bee boo boo boo - the murphy",
-    "did you know that 3kh0 has a discord server (im not a discord mod i swear) ",
     "How many sides does a circle have?",
     "You can read btw",
     "haahahahahhaahahahahahhahahahaahahhah - milner",
@@ -79,6 +78,12 @@ function getRandomGreeting() {
     "NUKE INCOMING!",
     "I spent too much time making these",
     "hello from the murph",
+    "miguel is a chromebook kid",
+    "go do your homework",
+    "gilliam is tall",
+    "If your reading this your teacher is watching you",
+    "aint no way he just said that",
+    "I made miguel stop asking me to update ngon",
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
