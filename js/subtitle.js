@@ -1,6 +1,6 @@
 function getRandomGreeting() {
   var greetings = [
-    "bee boo boo boo - the murphy",
+    "bee bee boo boo - the murphy",
     "How many sides does a circle have?",
     "You can read btw",
     "haahahahahhaahahahahahhahahahaahahhah - milner",
@@ -50,7 +50,6 @@ function getRandomGreeting() {
     "https://www.youtube.com/watch?v=QkygslFH3kU",
     "youtube.com/@3kh0",
     "Please stop posting furry images.",
-    "This game site doesn't really have the point of view from a teacher so idk why you read this so made you look ahahahahahahahahhahahaha",
     "POV that one person who's 2 braincells are fighting for second place.",
     "bottem text",
     "Why do they call it oven if you oven the cold food of out hot eat the food",
@@ -84,6 +83,7 @@ function getRandomGreeting() {
     "If your reading this your teacher is watching you",
     "aint no way he just said that",
     "I made miguel stop asking me to update ngon",
+    "lorem ipsum",
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
