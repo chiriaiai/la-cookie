@@ -84,6 +84,7 @@ function getRandomGreeting() {
     "aint no way he just said that",
     "I made miguel stop asking me to update ngon",
     "lorem ipsum",
+    "Hey Dude Just Wanna Know If You Are Cool Man Okay Great",
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
