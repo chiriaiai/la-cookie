@@ -54,7 +54,7 @@ function getRandomGreeting() {
     "bottem text",
     "grand 26",
     "No fun allowed",
-    "jackson bounds fell asleep in 3rd period",
+    "jackson bounds fell asleep in 6th period",
     "i do love buying birth certificates from the black market! - Shaymin",
     "'If you are trash go play Fortnite you loser' - Sun Tzu, Art of war",
     "I was taking my whale on a walk when I realized my Dodge was leaking electricity so I called the FBI to get me some pizza but instead they raided my house I am talking from Pluto aa humans halp me",
