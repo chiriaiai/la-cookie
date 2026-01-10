@@ -10,7 +10,7 @@ function getRandomGreeting() {
     "doot doot",
     "drippy like ive!",
     "Made in China!",
-    "Made by 3kh0!",
+    "i eat chips 10 times a day",
     "Press the little spinny thing on your keyboard",
     "Reading your search history...",
     "im funky",
